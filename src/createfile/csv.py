@@ -4,8 +4,6 @@ from datetime import datetime
 import os
 path=os.getcwd()
 print(path)
-path=path.split('/')
-print(path)
 def tes():
      print(path)
 def create_file(topic,field,path):

@@ -2,8 +2,8 @@
 requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 [project]
-name = "createfile_Runny1005"
-version = "0.0.1"
+name = "createfile"
+version = "0.0.2"
 authors = [
   { name="Runny1005", email="passakorn.kus@gmail.com" },
 ]
